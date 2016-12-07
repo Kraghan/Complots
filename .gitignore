@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# Custom 
+.idea/*
+cmake-build-debug/*
+CMakeConfig.txt
